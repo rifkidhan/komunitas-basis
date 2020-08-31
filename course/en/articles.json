@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Pembukaan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfb8a8107cc1c2c1ea65a",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea659",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    }
+  },
+  {
+    "title": "Artikel lanjutan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfec18107cc1c2c1ea68b",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea659",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    }
+  }
+]

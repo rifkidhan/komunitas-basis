@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Pembukaan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfb8a8107cc1c2c1ea65c",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea65a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/f77c91a009c339628f000af2fd7a95c386697974.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Block sejarah",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfec18107cc1c2c1ea68c",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfd218107cc1c2c1ea684",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea65a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/950f2fa25f98e03dba46bb36bdf613d23d728f7d.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Lingkungan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c01e78107cc1c2c1ea695",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Sejarah lingkungan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2bfe498107cc1c2c1ea688",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea65a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/038954063bf1e5c31ee1decc0ae8a04882e6a0c5.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "BAGAIMANA SITUASI UMAT\u000bDI LINGKUNGAN YANG KITA LAYANI ?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c033c8107cc1c2c1ea69a",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/aadfeef4fc7d3fb9654968ce40938ca55d42d9cd.jpg",
+      "src": "course/en/assets/aadfeef4fc7d3fb9654968ce40938ca55d42d9cd.jpg"
+    }
+  },
+  {
+    "title": "Pertanyaan reflektif",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c04a48107cc1c2c1ea69f",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/bf49a12bc199b38ba48c703d72a3c94426e609ce.png",
+      "src": "course/en/assets/bf49a12bc199b38ba48c703d72a3c94426e609ce.png"
+    }
+  },
+  {
+    "title": "MEMBERDAYAKAN LINGKUNGAN",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c17df8107cc1c2c1ea6a4",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/1bb8c91182b7b139fe691032a187c6792060fc9b.png",
+      "src": "course/en/assets/1bb8c91182b7b139fe691032a187c6792060fc9b.png"
+    }
+  },
+  {
+    "title": "TUGAS KETUA & PENGURUS LINGKUNGAN",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c1ae98107cc1c2c1ea6ab",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/7b77b806adb08f719d77b291d53835687bec2eff.png",
+      "src": "course/en/assets/7b77b806adb08f719d77b291d53835687bec2eff.png"
+    }
+  },
+  {
+    "title": "TANTANGAN PEMBERDAYAAN UMAT DI LINGKUNGAN",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c34eda8dc5a1c28d2ae41",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "GAP ANTAR GENERASI",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c409da8dc5a1c28d2ae43",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/c09c6da06bf360cb0aa202882a7aa48e47163a19.jpg",
+      "src": "course/en/assets/c09c6da06bf360cb0aa202882a7aa48e47163a19.jpg"
+    }
+  },
+  {
+    "title": "REKOMENDASI",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c4308a8dc5a1c28d2ae45",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Lanjutan",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f2c44e9a8dc5a1c28d2ae47",
+    "_parentId": "5f2bfec18107cc1c2c1ea68b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  }
+]

@@ -1,0 +1,733 @@
+[
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LINGKUNGAN SEBAGAI KOMUNITAS BASIS ",
+    "displayTitle": "LINGKUNGAN SEBAGAI KOMUNITAS BASIS ",
+    "body": "<p>Bersama dengan Komunitas Kategorial, komunitas sebagai dasar persekutuan umat beriman yang senantiasa dibangun dan diberdayakan.</p>",
+    "_id": "5f2bfd4c8107cc1c2c1ea686",
+    "_parentId": "5f2bfd218107cc1c2c1ea684",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LINGKUP PERSEKUTUAN UMAT DI KAJ",
+    "displayTitle": "LINGKUP PERSEKUTUAN UMAT DI KAJ",
+    "body": "<p>Terdiri dari 65 Paroki dan sejumlah stasi yang disiapkan menjadi Paroki (mis. Stasi Tambun) maupun tak akan menjadi Paroki (mis. Stasi Taman Mini).</p>",
+    "_id": "5f2bfd928107cc1c2c1ea687",
+    "_parentId": "5f2bfb8a8107cc1c2c1ea65c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Setiap Paroki terdiri dari sejumlah Lingkungan",
+        "body": "<ul><li>Satu lingkungan dapat dibagi menjadi sejumlah sub-Lingkungan (untuk memastikan terlaksananya pelayanan kepada umat);</li><li>Beberapa Lingkungan terdekat berkoordinasi dalam suatu Wilayah.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sejumlah Paroki berkoordinasi dalam satu Dekenat (8 Dekenat di KAJ)",
+        "body": "<ul><li>Untuk menjalin kebersamaan gerak pelayanan kepada umat dan inisiatif-inisiatif umat.</li><li>Untuk Memfasilitasi komunikasi dan kerja sama lintas Paroki.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SEJARAH LINGKUNGAN",
+    "displayTitle": "SEJARAH LINGKUNGAN",
+    "body": "<p>Lingkungan (<em>Kring</em> – bhs. Belanda) lahir tahun 1934, didirikan oleh Rm. Soegijapranata, SJ di Yogyakarta. Waktu itu terdapat dua gereja paroki yang berdekatan (berjarak +/- 800 meter) yaitu&nbsp;gereja St. Fransiskus Xaverius (Kidul Loji) dan&nbsp;gereja St. Yusuf (Bintaran) yang&nbsp;dipisahkan Sungai/Kali Code.&nbsp;</p><p>Gereja St. Fransiskus (Kidul Loji) dibangun lebih dahulu, hanya utk umat Katolik Belanda/ Eropa/kulit putih/indo (campuran). Umat pribumi/Jawa yang menjadi Katolik tidak boleh ke gereja St. Fransiskus (Kidul Loji) dan harus berkegiatan di gereja St. Yusuf (Bintaran).</p>",
+    "_id": "5f2bfe638107cc1c2c1ea689",
+    "_parentId": "5f2bfe498107cc1c2c1ea688",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SEJARAH LINGKUNGAN",
+    "displayTitle": "",
+    "body": "<p>Lingkungan memiliki sejarah dan makna yang sangat penting bagi pertumbuhan gereja indonesia dan misi Evangelisasi gereja Katolik di tengah masyarakat Indonesia. Lalu bagaimana Rm. Soegijapranata, SJ mendorong umat Katolik hadir di tengah keprihatinan masyarakat pribumi akibat penjajahan?</p>",
+    "_id": "5f2bffcb8107cc1c2c1ea68e",
+    "_parentId": "5f2bfec18107cc1c2c1ea68c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pertama",
+        "_ariaLevel": 0,
+        "body": "<p>Membentuk gereja-gereja kecil di sekitar gereja St. Yusuf (Bintaran): “lingkungan” (“kring” – bhs Belanda).</p>",
+        "_graphic": {
+          "src": "course/en/assets/7456a4213b784c5c7c778a32d5d726f85886f58c.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pertama"
+      },
+      {
+        "title": "Kedua",
+        "_ariaLevel": 0,
+        "body": "<p>Selain berdoa dan merenungkan Sabda Tuhan, umat lingkungan berpartisipasi dalam meningkatkan kualitas hidup bersama di tengah masyarakat (sosio-politik; sosio-ekonomi; sosio-budaya).</p>",
+        "_graphic": {
+          "src": "course/en/assets/e32a488ccf8a644560c450769eebc83c8842c3b4.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Kedua"
+      },
+      {
+        "title": "Ketiga",
+        "_ariaLevel": 0,
+        "body": "<p>1974 - Lingkungan telah menunjukkan buahnya di Jawa (Gereja bertumbuh pesat), berbanding terbalik dengan Eropa (Gereja mulai ditinggalkan).</p><p>(Bdk. “Lingkungan: Menuju Gereja yang <u>Lain</u>” tulisan Rm. Romens, SJ th. 1974).</p>",
+        "_graphic": {
+          "src": "course/en/assets/6f1037eb9ee17b17768383fadaa18ce7a4b5c4e8.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Ketiga"
+      },
+      {
+        "title": "Keempat",
+        "_ariaLevel": 0,
+        "body": "<p>Hingga kini&nbsp; Lingkungan (bersama komunitas kategorial) menjadi dasar/basis pertumbuhan iman umat dan perkembangan Gereja dengan beragam pelayanannya.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e32a488ccf8a644560c450769eebc83c8842c3b4.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Keempat"
+      }
+    ]
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LINGKUNGAN",
+    "displayTitle": "LINGKUNGAN",
+    "body": "<p>bdk. PDDP 2014 ps. 18 ay. 1-4</p>",
+    "_id": "5f2c020a8107cc1c2c1ea696",
+    "_parentId": "5f2c01e78107cc1c2c1ea695",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/34657f8754a743d04d8ec646e7b96b9082408e76.jpg",
+        "_captions": [
+          {
+            "text": "Terdiri dari 20-40 keluarga.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/64f4ba823a5d3b06108bbf2b3c06e9ae92b323e3.jpg",
+        "_captions": [
+          {
+            "text": "Dipimpin oleh Ketua Lingkungan yang dipilih dan diangkat oleh DPH dari antara calon-calon yang diusulkan musyawarah umat Lingkungan.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/723c0a6999d228560a1fb617255b1beb36d7e687.jpg",
+        "_captions": [
+          {
+            "text": "Pengurus lingkungan terdiri dari ketua, sekretaris, bendahara, dan seksi-seksi yang dibuat sesuai kebutuhan umat lingkungan dengan masa bakti 3 tahun.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "BAGAIMANA SITUASI UMAT DI LINGKUNGAN YANG KITA LAYANI ?",
+    "displayTitle": "BAGAIMANA SITUASI UMAT DI LINGKUNGAN YANG KITA LAYANI ?",
+    "body": "<p>Bdk. organisasi/lembaga/perusahaan.</p>",
+    "_id": "5f2c03a88107cc1c2c1ea69e",
+    "_parentId": "5f2c033c8107cc1c2c1ea69a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Gereja",
+        "body": "<p>Keluarga/persekutuan umat Allah.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sifat Keanggotaan",
+        "body": "<p>Sukarela, sangat cair, ikatan psikologis-afektif-emosional.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Kekuatan Keluarga ideal",
+        "body": "<ul><li>Suasana &amp; perasaan nyaman/ bahagia</li><li>Saling kenal, akrab, solider, membantu, merasa diterima/ terlindungi/terdukung,</li><li>Sumbangan (peran/materi, dsb) saling diberikan sbg ungkapan syukur atas perasaan nyaman/bahagia.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PERTANYAAN REFLEKTIF",
+    "displayTitle": "PERTANYAAN REFLEKTIF",
+    "body": "",
+    "_id": "5f2c04d38107cc1c2c1ea6a2",
+    "_parentId": "5f2c04a48107cc1c2c1ea69f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Lingkungan yang kita layani memiliki <strong>suasana</strong>&nbsp;seperti k<strong>eluarga</strong>?</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>setiap umat <strong>saling kenal &amp; akrab</strong>?</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>mereka merasa <strong>nyaman/ bahagia berhimpun </strong>dalam lingkungan?</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>mereka merasa <strong>diterima/ terlindungi/ terdukung oleh kebersamaan </strong>antarumat?</p>",
+        "next": "Dan Sudahkah"
+      },
+      {
+        "body": "<p>mereka mendapat kesempatan untuk&nbsp;<strong>saling berkontribusi/ berbagi/ menyumbang peran</strong> sebagai ungkapan perasaan itu?</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Sudahkah",
+      "continueText": "Sudahkah"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Gambar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f2c075b8107cc1c2c1ea6a3",
+    "_parentId": "5f2c04a48107cc1c2c1ea69f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b73cda43d1c571ff7ecd1f7c8f3da34f828565c2.jpg",
+      "small": "course/en/assets/b73cda43d1c571ff7ecd1f7c8f3da34f828565c2.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MEMBERDAYAKAN LINGKUNGAN",
+    "displayTitle": "MEMBERDAYAKAN LINGKUNGAN",
+    "body": "<p>Apa yang dimaksud dengan&nbsp; memberdayakan Lingkungan?</p><p>Memberdayakan lingkungan adalah memampukan umat Lingkungan untuk mewujudkan cita-cita Gereja KAJ (semakin tangguh dalam iman, terlibat dalam persaudaraan inklusif, dan berbelarasa terhadap sesama dan lingkungan hidup), sehingga mereka menjadi KELUARGA umat beriman yang sesungguhnya. Unsur-unsur penting dalam memberdayakan umat adalah sebagai berikut.</p>",
+    "_id": "5f2c19228107cc1c2c1ea6a7",
+    "_parentId": "5f2c17df8107cc1c2c1ea6a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pengurus Lingkungan yang tangguh",
+        "_ariaLevel": 0,
+        "body": "<p>kader yang disiapkan &amp; diberdayakan terus menerus.</p>",
+        "_graphic": {
+          "src": "course/en/assets/cde39ab9df9bf66d29b4dc51c4490564064f1572.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pengurus Lingkungan yang tangguh"
+      },
+      {
+        "title": "Tata Pelayanan Lingkungan",
+        "_ariaLevel": 0,
+        "body": "<p>Terencana, sistematis, dan akuntabel.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e074815ff1417a9aa7b9266da8d6bcd5e3c4cd05.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Tata Pelayanan Lingkungan"
+      },
+      {
+        "title": "Pelbagai Sarana Bantu",
+        "_ariaLevel": 0,
+        "body": "<p>Data-informasi-pengetahuan, alat analisis, bahan pelayanan, dsb.</p>",
+        "_graphic": {
+          "src": "course/en/assets/239b420f2b6646ce47133755ae2ccdf23fec1249.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pelbagai Sarana Bantu"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TUGAS KETUA DAN PENGURUS LINGKUNGAN",
+    "displayTitle": "TUGAS KETUA DAN PENGURUS LINGKUNGAN",
+    "body": "<ol><li>Mengatur Ekaristi, ibadat, pengajaran iman.</li><li>Mengikutsertakan umat Lingkungan sehubungan peristiwa-peristiwa penting keluarga (kelahiran, perkawinan, sakit, kematian).</li><li>Mewujudkan solidaritas kpd warga Lingkungan (miskin, sakit, lansia).</li><li>Memastikan anak-anak mendapatkan pendidikan Katolik sejak dini dan kaum muda mendapatkan pendampingan.</li><li>Menemukan kreativitas yang melibatkan banyak warga.</li><li>Mengusahakan warga Lingkungan yang belum aktif tetap disapa dan tetap mendapatkan pelayanan pastoral.</li><li>Mewujudkan semangat persaudaraan dan pelayanan antar warga Lingkungan dan dengan warga masyarakat sekitar.</li><li>Mendorong warga Lingkungan berperanserta dalam RT/RW.</li><li>Melakukan pendataan warga Lingkungan (bdk. sistem pendataan umat dalam Basis Integrasi Data Umat Katolik/BIDUK KAJ)</li></ol>",
+    "_id": "5f2c328aa8dc5a1c28d2ae3d",
+    "_parentId": "5f2c1ae98107cc1c2c1ea6ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TANTANGAN PEMBERDAYAAN UMAT DI LINGKUNGAN",
+    "displayTitle": "TANTANGAN PEMBERDAYAAN UMAT DI LINGKUNGAN",
+    "body": "",
+    "_id": "5f2c3529a8dc5a1c28d2ae42",
+    "_parentId": "5f2c34eda8dc5a1c28d2ae41",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pengetahuan dan pemahaman iman kurang (Kitab Suci dan Tradisi Gereja, Sakramen, Sejarah dan Eklesiologi Gereja, teladan Para Kudus, dsb.)",
+        "body": "<ul><li>terputusnya katekese &gt;&gt; mistagogi bagi penerima “baptis bayi”</li><li>Akibat: pemahaman iman stagnan (tidak bertumbuh) &gt;&gt; formalisme meningkat (simbol fisik, rubrik, boleh-tidak boleh) &gt;&gt; “konflik di dalam – inferior di luar”</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Katekese/mistagogi sudah semakin menarik (pengayaan materi dan metode) tapi belum menjangkau seluruh Lingkungan",
+        "body": "<ul><li>sebaran materi dan metode</li><li>sebaran keterampilan katekis/seksi katekese Lingkungan</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Gap antar umat",
+        "body": "<ul><li>Gap antar-generasi</li><li>Gap antar kelas sosio-ekonomi dan sosio-budaya</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "GAP ANTAR GENERASI",
+    "displayTitle": "GAP ANTAR GENERASI",
+    "body": "",
+    "_id": "5f2c40d9a8dc5a1c28d2ae44",
+    "_parentId": "5f2c409da8dc5a1c28d2ae43",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Perbedaan karakter pribadi (psikologis)</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Perbedaan cara pandang/cara berpikir dan akses informasi</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Perbedaan tata nilai, sikap &gt;&gt; perilaku sosial</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Perbedaan persepsi dan sikap tentang iman dan agama</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk mulai",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "REKOMENDASI",
+    "displayTitle": "REKOMENDASI",
+    "body": "",
+    "_id": "5f2c435ca8dc5a1c28d2ae46",
+    "_parentId": "5f2c4308a8dc5a1c28d2ae45",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Mendengar kebutuhan umat ",
+        "body": "<p>Mendengar kebutuhan umat dengan cara kunjungan kasih, pertemuan dialog, wawancara, jajak saran, atau riset sederhana</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Terbuka berkolaborasi (bekerjasama, partisipatif)",
+        "body": "<ul><li>Dengan para ketua dan pengurus Lingkungan</li><li>Dengan Seksi-seksi Dewan Paroki</li><li>Dengan komunitas-komunitas kategorial</li><li>Mengundang partisipasi pribadi-pribadi umat berkompeten</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Program Karya Pelayanan",
+        "body": "<p>Program karya pelayanan yang terencana/selaras, terpantau, terevaluasi sehingga&nbsp;dapat dipertanggungjawabkan</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Kreativitas berpastoral-evangelisasi",
+        "body": "<ul><li>Menjawab kebutuhan yang berbeda-beda (bdk. gap antar generasi), menyesuaikan konteks situasi yang berubah-ubah.</li><li>Siapkan sungguh-sungguh materi, metode, dan pemandu pertemuan Lingkungan semenarik mungkin.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lanjutan",
+    "displayTitle": "",
+    "body": "<p>Melalui baptisan, seseorang menjadi anggota gereja. Dengan menjadi anggota gereja, turut serta dalam tugas kristus. Tugas kristus adalah&nbsp;sebagai nabi, imam, raja. Sebagai nabi&nbsp;bertugas pewartaan, sebagai imam bertugas pengudusan, dan sebagai raja bertugas pelayanan dan penggembalaan.</p>",
+    "_id": "5f2c4500a8dc5a1c28d2ae48",
+    "_parentId": "5f2c44e9a8dc5a1c28d2ae47",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Sebagai Nabi",
+        "_ariaLevel": 0,
+        "body": "<p>Tugas untuk mengajarkan iman Katolik, pengajaran pemahaman isi Kitab Suci, baik melalui katekese, khotbah/ homili maupun pendidikan agama.Gereja sendiri harus menjadi warta bagi dunia. Hidup di tengah dunia adalah sebuah pewartaan.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d20fcbd0956cd2b745a11d1df57a72c57ff8e749.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Sebagai Nabi"
+      },
+      {
+        "title": "Sebagai Imam",
+        "_ariaLevel": 0,
+        "body": "<p>Bagi kaum tertahbis, memimpin perayaan-perayaan Iman (akramen-sakramen, peribadatan, dan sakramentali)Sedangkan bagi kaum Awam, turut serta dalam perayaan-perayaan yang di pimpin imam tertahbis.sebagai para pelayan umat awam: melalui pendampingan – pengajaran – bimbingan – persiapan dan pelaksanaan untuk perayaan-perayaan iman (perayaan sakramen-sakramentali, devosi, peribadatan), memimpin perayaan peribadatan yang bukan sakramen.</p>",
+        "_graphic": {
+          "src": "course/en/assets/03e05821c587ca30d13cca3a138450df4148bf40.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Sebagai Imam"
+      },
+      {
+        "title": "Sebagai Raja",
+        "_ariaLevel": 0,
+        "body": "<p>Dikaitkan dengan kepemimpinan. Dalam gereja, kepemimpinan tidak diidentikan dengan kekuasaan, melainkan pelayanan kegembalaan.Pelayan dilingkungan, sebagai pelayan diharapkan dapat mengenal umatnya dan serta mendampinginya. Serta penanganan administrasi umat (data-data mengenai umat) demi kelancaran pelayanan.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f0a42a4477f13de60409e70e6b872fd89b1a6ce0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Sebagai Raja"
+      }
+    ]
+  }
+]
