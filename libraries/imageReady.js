@@ -8,7 +8,6 @@
 
         var img = $img[0];
         var hasNoSrc = !$img.attr("src");
-        var isLazyLoading = ($img.attr('loading') === 'lazy');
         var isMarkedComplete = img.complete;
         var hasCorrectReadyState = img.readyState === 4;
 
@@ -19,7 +18,7 @@
 
         var hasValidHeight = has$Height && hasNaturalHeight;
 
-        return hasNoSrc || isLazyLoading || isMarkedComplete || hasCorrectReadyState || hasValidHeight;
+        return hasNoSrc || isMarkedComplete || hasCorrectReadyState || hasValidHeight;
 
     }
 
@@ -38,8 +37,8 @@
 
             for (var i = 0, len = tags.length; i < len; i++) {
 
-                el = tags[i];
-                if (!el.currentStyle) continue;
+                el = tags[i];  
+
                 var hasNoValue = (el.currentStyle[scriptName] == 'none');
                 if (hasNoValue) continue;
 
@@ -51,7 +50,7 @@
 
             for (var i = 0, len = tags.length; i < len; i++) {
 
-                el = tags[i];
+                el = tags[i];  
 
                 var hasNoValue = (document.defaultView.getComputedStyle(el, null).getPropertyValue(name) == 'none');
                 if (hasNoValue) continue;
@@ -94,17 +93,16 @@
                 // stripCSSURL
                 var matches = /url\(([^)]*)\)/g.exec(backgroundImageValue);
                 if (matches === null) return;
-
+                
                 // stripCSSQuotes
                 var url = matches[1].replace(/[\"\']/g, "");
-                $image.attr('loading', 'eager');
                 $image.attr("src", url);
                 $images = $images.add($image);
 
             });
 
         });
-
+        
         $images.loaded = 0;
 
         //return undefined if no images found
@@ -174,7 +172,7 @@
 
             $this.one("load", complete);
             $this.one("error", complete);
-
+            
             // hack for onload event not firing for cached images in IE9-11 http://garage.socialisten.at/2013/06/how-to-fix-the-ie9-image-onload-bug/
             // reset the src attribute
             $this.attr("src", $this.attr("src"));
@@ -186,12 +184,11 @@
 
         //setup timeout event
         if (!options.allowTimeout) return;
-
+        
         //set a timeout to callback on slow / missing image load
         timeoutHandle = setTimeout(check, options.timeoutDuration)
 
     }
-
     $.fn.imageready.timeoutDuration = 1;
     $.fn.imageready.allowTimeout = false;
 

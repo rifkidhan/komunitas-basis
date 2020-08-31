@@ -90,7 +90,6 @@
       "parallax-background-switcher",
       "adapt-close",
       "adapt-backButton",
-      "adapt-lazyLoadPatch",
       "adapt-contrib-tutor"
     ]
   }
